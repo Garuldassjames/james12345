@@ -6,5 +6,9 @@
  *
  */
 module Selenium_Practice {
- RestAssured.baseURI = "https://localhost:8080";
+
+}
+
+main(){
+  int x=123;
 }
