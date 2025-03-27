@@ -6,5 +6,5 @@
  *
  */
 module Selenium_Practice {
-  System.out.print(12334);
+ RestAssured.baseURI = "https://localhost:8080";
 }
